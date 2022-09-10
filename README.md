@@ -1,3 +1,1 @@
-# jsproject
-javascripting
-This is a simple calculator using javascript
+A Simple JS Calculator Readme file
