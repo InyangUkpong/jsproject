@@ -1,5 +1,5 @@
 body{
-    background-color: honeydew;
+    background-color: rgb(200, 216, 200);
 }
 
 h1{
@@ -9,11 +9,11 @@ h1{
 }
 
 #clear{
-    width: 290px;
+    width: 280px;
     border: 3px solid gray;
     border-radius: 3px;
-    padding: 20px;
-    background-color: rgb(233,102, 102);
+    padding: 15px;
+    background-color: rgb(211, 41, 41);
 }
 
 .calcbody{
@@ -22,7 +22,7 @@ h1{
     margin: auto;
     border: 3px solid skyblue;
     border-radius: 5px;
-    padding: 20px;
+    padding: 18px;
 }
 
 input{
@@ -37,7 +37,7 @@ input{
 }
 
 #calc{
-    width: 288px;
+    width: 282px;
     border: 5px solid black;
     border-radius: 3px;
     padding: 20px;
